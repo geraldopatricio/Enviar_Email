@@ -2,13 +2,11 @@
   <img src="./assets/images/logo.png" width="300" alt="PHP" />
 </p>
 
-# AutoComplete_Oracle_PHP
-Modelo de Auto-Complete usando Oracle e PHP via PDO
+# Send Mail PHP
+Enviar E-Mail via PHP usando phpmailer.
 
 ## Objetivo
 ```bash
-Enviar E-Mail via PHP.
-
 Com este exemplo vc pode usar o dominio da AWS e passar os seus parâmetros de credencias
 
 ```
